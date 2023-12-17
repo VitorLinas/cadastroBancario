@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.AssemblyInfo.cs
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\bin\Debug\net6.0\CadastroBancario.exe
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\bin\Debug\net6.0\CadastroBancario.deps.json
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\bin\Debug\net6.0\CadastroBancario.runtimeconfig.json
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\bin\Debug\net6.0\CadastroBancario.dll
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\bin\Debug\net6.0\CadastroBancario.pdb
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.dll
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\refint\CadastroBancario.dll
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.pdb
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\CadastroBancario.genruntimeconfig.cache
+C:\Users\vitor\source\repos\CadastroBancario\CadastroBancario\obj\Debug\net6.0\ref\CadastroBancario.dll
